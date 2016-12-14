@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "E:\\OpenSource\\graphhopper-master\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 44,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 44,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 48,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 48,
+                        "endOffset": 61
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 59,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 66,
+                        "endColumn": 59,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 57,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    }
+]

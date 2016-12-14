@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.vividsolutions\jts\1.13\3ccfb9b60f04d71add996a666ceb8902904fd805\jts-1.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ccfb9b60f04d71add996a666ceb8902904fd805">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\jts-1.13_caa33ff5bfffd8e6b030bc0464346e2f673adc09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.carrotsearch\hppc\0.7.2\710398361f2ae8fd594a133e3619045c16b24137\hppc-0.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="710398361f2ae8fd594a133e3619045c16b24137">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\hppc-0.7.2_420053f00ccf7f2f2f21a3c0d81cb12d31871089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.graphhopper\graphhopper-core\0.9-SNAPSHOT\86f3c546c985a9c558d1a4fe57cc08bf668b3b86\graphhopper-core-0.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="86f3c546c985a9c558d1a4fe57cc08bf668b3b86">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\graphhopper-core-0.9-SNAPSHOT_d7add28932719482d7e9d21128147708b034c1c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.mapsforge\vtm-jts\0.6.0\7001b58ef42a8efd86ee01d753c058871f21924a\vtm-jts-0.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7001b58ef42a8efd86ee01d753c058871f21924a">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\vtm-jts-0.6.0_f231ffce05a7f154dcf7df4ae1f141d321fcee54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.21\139535a69a4239db087de9bab0bee568bf8e0b70\slf4j-api-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.21_8edbaf80f1443ddda69772949159ce7747e3f8ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-android\1.7.21\f4f6a07c00f3996d8db58c85a3d73377b40611eb\slf4j-android-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\slf4j-android-1.7.21_761f418764bcf4fb91589bef0ca0f4bcecfceb25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.mapsforge\vtm-themes\0.6.0\1f5f730b2322b686f7046310813e289814bcb86a\vtm-themes-0.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f5f730b2322b686f7046310813e289814bcb86a">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\vtm-themes-0.6.0_1abf42574bdf27713b8892fcdacbc0eeb40217f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.caverock\androidsvg\1.2.2-beta-1\d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9\androidsvg-1.2.2-beta-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\androidsvg-1.2.2-beta-1_536a5634c39fc9f2f68a74917d7d971e10b459b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.mapsforge\vtm-android\0.6.0\28ecd3abee37d70fc553ace14a8d21fc2e192590\vtm-android-0.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="28ecd3abee37d70fc553ace14a8d21fc2e192590">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\vtm-android-0.6.0_b26d5b3ba13f945f595e3cedf8c23aa32fe8ddef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.mapsforge\vtm\0.6.0\8be18e5068fcfb406950be54a43776c73f563f5e\vtm-0.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8be18e5068fcfb406950be54a43776c73f563f5e">
+        <dex dex="E:\OpenSource\graphhopper-master\android\app\build\intermediates\pre-dexed\debug\vtm-0.6.0_8f3948ace207da1f0a1f63674031662d0a82e90c.jar" />
+    </item>
+
+</items>

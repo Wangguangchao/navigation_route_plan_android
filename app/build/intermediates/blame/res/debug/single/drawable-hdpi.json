@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\OpenSource\\graphhopper-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker_icon_red.png",
+        "source": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\drawable-hdpi\\marker_icon_red.png"
+    },
+    {
+        "merged": "E:\\OpenSource\\graphhopper-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker_icon_green.png",
+        "source": "E:\\OpenSource\\graphhopper-master\\android\\app\\src\\main\\res\\drawable-hdpi\\marker_icon_green.png"
+    }
+]
